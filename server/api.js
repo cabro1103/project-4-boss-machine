@@ -13,5 +13,3 @@ apiRouter.use('/meetings', meetingsRouter);
 
 //Export
 module.exports = apiRouter;
-
-//test comment for dev purposes
